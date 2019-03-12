@@ -1,0 +1,6 @@
+1. k-position left rotate (linear array)
+
+2. k-position right rotate (linear array)
+
+3. removeAll (linear array, where this method tries to remove all occurrences
+   of a particular Object sent through the parameter)
